@@ -1,0 +1,2 @@
+DOTNET_PUBLISH="true"
+DOTNET_RESTORE_SOURCES="/home/rkieley/.nuget/nupkgs"
